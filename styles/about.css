@@ -1,0 +1,23 @@
+.about-banner{
+    height: 50vh;
+}
+.about-banner h1{
+    font-size: 3.5rem;
+}
+.trainer {
+    background-color: var(--text-primary);
+    color:var(--text-secondary);
+    border-radius: 5px;
+}
+.card{
+    width: 18rem; 
+    height: 35rem;
+}
+.trainer-img{
+    filter: grayscale(100%);
+    width: 286px;
+    height: 286px;
+}
+.trainer-img:hover{
+    filter: none;
+}

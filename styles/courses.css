@@ -1,0 +1,10 @@
+.courses-banner{
+    height: 50vh;
+}
+.courses-banner h1{
+    font-size: 3.5rem;
+}
+.prog-preg-btn
+{
+    background-color: var(--button-color);
+}
